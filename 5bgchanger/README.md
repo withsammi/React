@@ -23,7 +23,7 @@ A clean, interactive background color changer built with React and TailwindCSS. 
 
 ## 🖼️ Screenshot
 
-![App Screenshot](./image.png)
+![App Screenshot](./src/assets/demo.jpg)
 
 ---
 
@@ -38,10 +38,12 @@ A clean, interactive background color changer built with React and TailwindCSS. 
    ```bash
    git clone https://github.com/withsammi/React.git
    cd React/5bgchanger
+   npm install
+   npm run dev
 
 
-npm install
-npm run dev
+
+
 
 🧑‍💻 Author
 Made with ❤️ by Sammie
